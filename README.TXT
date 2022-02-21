@@ -1,4 +1,4 @@
-Required: NumPy, Scipy, Matplotlib, iMinuit, uncertainties, timeit, tqdm
+Required: NumPy, Scipy, Matplotlib, Numba, iMinuit, uncertainties, timeit, tqdm
           a LaTeX distribution (or comment out "text.usetex": True) after imports
 
 complexity_input.py contains parameters that user may want to modify. The default ones
